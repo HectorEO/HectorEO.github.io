@@ -8,7 +8,10 @@ h1 {
     color: #4682B4;
     line-height: 5;
 }
+h2 {
+    color: #778899;
+    line-height: 2.5;
+}
 a {
     color: #2980b9;
-    line-height: 2.5;
 }
