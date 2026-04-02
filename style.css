@@ -14,9 +14,9 @@ h2 {
     color: #778899;
     line-height: 2.5;
 }
-a {
+a:hover{
     color: #2980b9;
-}
+    {
 .container {
   max-width: 900px;
   margin: auto;
