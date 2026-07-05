@@ -28,3 +28,19 @@ a:hover {
   border-radius: 12px;       /* rounded corners */
   box-shadow: 0 4px 10px rgba(0,0,0,0.3); /* shadow */
 }
+
+.button {
+     border: 0;
+  padding: 10px;
+  box-shadow:
+    -2px -2px 5px gray,
+    2px 2px 5px gray;
+}
+
+@media (forced-colors: active) {
+  .button {
+    /* Use a border instead, since box-shadow
+    is forced to 'none' in forced-colors mode */
+    border: 2px ButtonBorder solid;
+  }
+}
