@@ -12,6 +12,10 @@ h1 {
 }
 h2 {
     color: #000000;
+    line-height: 2.75;
+}
+h3 {
+    color:bisque;
     line-height: 2.5;
 }
 a:hover {
