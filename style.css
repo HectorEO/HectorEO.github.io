@@ -11,11 +11,11 @@ h1 {
     line-height: 3;
 }
 h2 {
-    color: bisque;
+    color: rgb(8, 86, 196);
     line-height: 2.75;
 }
 h3 {
-    color:#000000;
+    color:#42a4f5;
     line-height: 2.5;
 }
 a:hover {
